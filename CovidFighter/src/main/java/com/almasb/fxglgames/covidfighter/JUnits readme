@@ -1,0 +1,76 @@
+JUnits Description
+
+1)	The first junit test is to test if the initialGame is functional or not. We are passing an empty object to the initialGame class in the test method, and if the game has set its players, spawns, background color, and bounds, it would not return an exception. 
+Since, it returns an exception it means the code passed the exception test for the class. 
+
+2)	The second junit test is to test if the initText class is functional or not. We are passing an empty object to the initialText class in the test method to check if the game has set the percentage on the screen by displaying the health of the player. If that’s the case, it would not return an exception. 
+Since, it returns an exception it means the code passed the exception test for this class. 
+
+3)	The third junit test is to test if the initialPhysics set up for the player is functional or not. We are passing an empty object to the initialPhysics class in the test method, and if the game has the gravity to 0 for the player, it will not return an exception. 
+Since, it returns an exception it means the code passed the exception test for the class.
+ 
+4)	The fourth junit test is to test if the initUpdate is functional or not. We are passing an empty object to the initUpdate class in the test method, and if the game has set its animation and it moves along with the player, it would not return an exception. 
+Since, it returns an exception it means the code passed the exception test for the class. 
+
+5)	The fifth junit test is to test if the nextLevel is functional or not. We are passing an empty object to the nextLevel class in the test method, and if the game moves on to the next screen and displayes the next level, it would not return an exception. 
+Since, it returns an exception it means the code passed the exception test for the class.
+
+6)	The sixth junit test is to test if the initialGame is functional or not. We are passing an empty object to the initialGame class in the test method, and if the game has set its players, spawns, background color, and bounds, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+7)	The seventh junit test is to test if the initText class is functional or not. We are passing an empty object to the initialText class in the test method to check if the game has set the percentage on the screen by displaying the health of the player. If that’s the case, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for this class.
+
+8)	The eighth junit test is to test if the initialPhysics set up for the player is functional or not. We are passing an empty object to the initialPhysics class in the test method, and if the game has the gravity to 0 for the player, it will not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+9)	The ninth junit test is to test if the initUpdate is functional or not. We are passing an empty object to the initUpdate class in the test method, and if the game has set its animation and it moves along with the player, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+10)	The tenth junit test is to test if the nextLevel is functional or not. We are passing an empty object to the nextLevel class in the test method, and if the game moves on to the next screen and displayes the next level, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+11)	The eleventh junit test is to test if the initialGame is functional or not. We are passing an empty object to the initialGame class in the test method, and if the game has set its players, spawns, background color, and bounds, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+12)	The twelfth junit test is to test if the initText class is functional or not. We are passing an empty object to the initialText class in the test method to check if the game has set the percentage on the screen by displaying the health of the player. If that’s the case, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for this class.
+
+13)	The thirteenth junit test is to test if the initialPhysics set up for the player is functional or not. We are passing an empty object to the initialPhysics class in the test method, and if the game has the gravity to 0 for the player, it will not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+14)	The fourteenth junit test is to test if the initUpdate is functional or not. We are passing an empty object to the initUpdate class in the test method, and if the game has set its animation and it moves along with the player, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+15)	The fifteenth junit test is to test if the nextLevel is functional or not. We are passing an empty object to the nextLevel class in the test method, and if the game moves on to the next screen and displayes the next level, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+16)	The first junit test is to test if the initialGame is functional or not. We are passing an empty object to the initialGame class in the test method, and if the game has set its players, spawns, background color, and bounds, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+17)	The second junit test is to test if the initText class is functional or not. We are passing an empty object to the initialText class in the test method to check if the game has set the percentage on the screen by displaying the health of the player. If that’s the case, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for this class.
+
+18)	The third junit test is to test if the initialPhysics set up for the player is functional or not. We are passing an empty object to the initialPhysics class in the test method, and if the game has the gravity to 0 for the player, it will not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+19)	The fourth junit test is to test if the initUpdate is functional or not. We are passing an empty object to the initUpdate class in the test method, and if the game has set its animation and it moves along with the player, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+20)	The fifth junit test is to test if the nextLevel is functional or not. We are passing an empty object to the nextLevel class in the test method, and if the game moves on to the next screen and displayes the next level, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+21)	The sixth junit test is to test if the initialGame is functional or not. We are passing an empty object to the initialGame class in the test method, and if the game has set its players, spawns, background color, and bounds, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+22)	The seventh junit test is to test if the initText class is functional or not. We are passing an empty object to the initialText class in the test method to check if the game has set the percentage on the screen by displaying the health of the player. If that’s the case, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for this class.
+
+23)	The eighth junit test is to test if the initialPhysics set up for the player is functional or not. We are passing an empty object to the initialPhysics class in the test method, and if the game has the gravity to 0 for the player, it will not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+24)	The ninth junit test is to test if the initUpdate is functional or not. We are passing an empty object to the initUpdate class in the test method, and if the game has set its animation and it moves along with the player, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
+
+25)	The tenth junit test is to test if the nextLevel is functional or not. We are passing an empty object to the nextLevel class in the test method, and if the game moves on to the next screen and displayes the next level, it would not return an exception.
+Since, it returns an exception it means the code passed the exception test for the class.
